@@ -24,7 +24,7 @@
 </tr>
 </table>
 
-<p> <br> <br> <h3> <font face="Georgia" color="purple"> <center> <b> <i> "Group 2 ( 9H )" </b> </i> </center> </h3>
+<p> <br> <br> <h3> <font face="Georgia" color="white" size="18"> <center> <b> <i> "Group 2 ( 9H )" </b> </i> </center> </h3>
 
 </body>
 </html>
